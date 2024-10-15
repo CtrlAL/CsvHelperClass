@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sp1\\source\\repos\\CsvWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|c:\\users\\sp1\\source\\repos\\csvwriter\\csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|solutionrelative:csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sp1\\AppData\\Local\\SourceServer\\c5f6df032e8d95fc342479517a85ce1ce69f74638e61c6c78eac658d0692c933\\src\\CsvHelper\\Configuration\\ConfigurationFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sp1\\AppData\\Local\\SourceServer\\809e9bbb2b5700f1117e359f17474cee12fa4ad419a9911b39604104726e7545\\src\\CsvHelper\\Configuration\\ClassMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\sp1\\AppData\\Local\\SourceServer\\c5f6df032e8d95fc342479517a85ce1ce69f74638e61c6c78eac658d0692c933\\src\\CsvHelper\\Configuration\\ConfigurationFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\c5f6df032e8d95fc342479517a85ce1ce69f74638e61c6c78eac658d0692c933\\src\\CsvHelper\\Configuration\\ConfigurationFunctions.cs",
+              "ToolTip": "C:\\Users\\sp1\\AppData\\Local\\SourceServer\\c5f6df032e8d95fc342479517a85ce1ce69f74638e61c6c78eac658d0692c933\\src\\CsvHelper\\Configuration\\ConfigurationFunctions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\c5f6df032e8d95fc342479517a85ce1ce69f74638e61c6c78eac658d0692c933\\src\\CsvHelper\\Configuration\\ConfigurationFunctions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:25:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassMap.cs",
+              "DocumentMoniker": "C:\\Users\\sp1\\AppData\\Local\\SourceServer\\809e9bbb2b5700f1117e359f17474cee12fa4ad419a9911b39604104726e7545\\src\\CsvHelper\\Configuration\\ClassMap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\809e9bbb2b5700f1117e359f17474cee12fa4ad419a9911b39604104726e7545\\src\\CsvHelper\\Configuration\\ClassMap.cs",
+              "ToolTip": "C:\\Users\\sp1\\AppData\\Local\\SourceServer\\809e9bbb2b5700f1117e359f17474cee12fa4ad419a9911b39604104726e7545\\src\\CsvHelper\\Configuration\\ClassMap.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\809e9bbb2b5700f1117e359f17474cee12fa4ad419a9911b39604104726e7545\\src\\CsvHelper\\Configuration\\ClassMap.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwNYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:35:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sp1\\source\\repos\\CsvWriter\\CsvWriter\\Program.cs",
+              "RelativeDocumentMoniker": "CsvWriter\\Program.cs",
+              "ToolTip": "C:\\Users\\sp1\\source\\repos\\CsvWriter\\CsvWriter\\Program.cs",
+              "RelativeToolTip": "CsvWriter\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:53:52.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
