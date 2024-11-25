@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvwriter\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|solutionrelative:csvwriter\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|c:\\larcev\\csvwriter\\csvhelperclass\\csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|solutionrelative:csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvwriter\\mapperclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|solutionrelative:csvwriter\\mapperclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|c:\\larcev\\csvwriter\\csvhelperclass\\csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|solutionrelative:csvwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvwriter\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\csvWriter.csproj|solutionrelative:csvwriter\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD12555A-D082-43B9-846B-5D925183F6E1}|CsvWriter\\CsvWriter.csproj|C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvwriter\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -32,10 +32,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -58,31 +54,29 @@
               "RelativeToolTip": "CsvWriter\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-15T10:41:01.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CsvWorker.cs",
-              "DocumentMoniker": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\CsvWriter\\CsvWorker.cs",
-              "RelativeDocumentMoniker": "CsvWriter\\CsvWorker.cs",
-              "ToolTip": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\CsvWriter\\CsvWorker.cs",
-              "RelativeToolTip": "CsvWriter\\CsvWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:40:45.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T10:41:01.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CsvWorker.cs",
+              "DocumentMoniker": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvWriter\\CsvWorker.cs",
+              "RelativeDocumentMoniker": "csvWriter\\CsvWorker.cs",
+              "ToolTip": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvWriter\\CsvWorker.cs",
+              "RelativeToolTip": "csvWriter\\CsvWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:40:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvWriter\\Program.cs",
               "RelativeDocumentMoniker": "csvWriter\\Program.cs",
               "ToolTip": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\csvWriter\\Program.cs",
               "RelativeToolTip": "csvWriter\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T10:34:25.83Z",
               "EditorCaption": ""
@@ -95,10 +89,9 @@
               "RelativeDocumentMoniker": "CsvWriter\\MapperClasses.cs",
               "ToolTip": "C:\\Larcev\\CsvWriter\\CsvHelperClass\\CsvWriter\\MapperClasses.cs",
               "RelativeToolTip": "CsvWriter\\MapperClasses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:23:26.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T10:23:26.319Z"
             }
           ]
         }
